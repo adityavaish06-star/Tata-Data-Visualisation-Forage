@@ -2,10 +2,12 @@
 
 **Data Visualisation | Power BI | Forage | Mar 2026**
 
-[![Certificate](https://img.shields.io/badge/Certificate-Completed-brightgreen)](https://forage.com)
-[![Issuer](https://img.shields.io/badge/Issuer-Tata%20×%20Forage-blue)](https://forage.com)
+# Tata Data Visualisation — Forage Virtual Experience
+
+**Data Visualisation | Power BI | Forage | Mar 2026**
 
 ---
+
 
 ## Overview
 

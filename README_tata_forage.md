@@ -2,10 +2,6 @@
 
 **Data Visualisation | Power BI | Forage | Mar 2026**
 
-# Tata Data Visualisation — Forage Virtual Experience
-
-**Data Visualisation | Power BI | Forage | Mar 2026**
-
 ---
 
 
